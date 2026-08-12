@@ -55,7 +55,7 @@ A Walmart-style global sales export containing:
 
 
 ```
-📸 [Insert dashboard screenshot / GIF here]
+
 ```
 
 ---
