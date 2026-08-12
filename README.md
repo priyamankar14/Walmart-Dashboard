@@ -51,7 +51,8 @@ A Walmart-style global sales export containing:
 
 ## 🖥️ Dashboard Preview
 
-> *Add a screenshot of your dashboard here!*
+> <img width="1466" height="710" alt="image" src="https://github.com/user-attachments/assets/a1006af8-d5aa-4b66-8ee0-3ac35ada49ef" />
+
 
 ```
 📸 [Insert dashboard screenshot / GIF here]
